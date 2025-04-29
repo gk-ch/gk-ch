@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesamanian Kolappan</h1>
 <h2 align="center">Senior Data Scientist @ CoachHub</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesamanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganesamanian" /> </p>
 
 - 👨‍💼 Currently contributing to AI-driven coaching solutions at **CoachHub**
 
